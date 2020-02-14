@@ -8,6 +8,7 @@ public class NaukaIntelijjApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(NaukaIntelijjApplication.class, args);
+        System.out.println("elo");
     }
 
 }
